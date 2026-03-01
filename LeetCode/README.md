@@ -11,3 +11,5 @@
 - **reverse integer** ([solution](reverse-integer.cpp)) - cpp - Medium - 2026-03-01T07:24:14.108Z
 
 - **frequency of the most frequent element** ([solution](frequency-of-the-most-frequent-element.cpp)) - cpp - Medium - 2026-03-01T16:55:26.338Z
+
+- **rotate array** ([solution](rotate-array.cpp)) - cpp - Medium - 2026-03-01T16:58:06.437Z
