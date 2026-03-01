@@ -9,3 +9,5 @@
 - **maximum depth of binary tree** ([solution](maximum-depth-of-binary-tree.ts)) - ts - Easy - 2026-02-20T11:01:56.226Z
 
 - **reverse integer** ([solution](reverse-integer.cpp)) - cpp - Medium - 2026-03-01T07:24:14.108Z
+
+- **frequency of the most frequent element** ([solution](frequency-of-the-most-frequent-element.cpp)) - cpp - Medium - 2026-03-01T16:55:26.338Z
